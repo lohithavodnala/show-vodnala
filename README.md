@@ -10,3 +10,5 @@ I love it because An Indian Thali is a complete meal that represents a perfect b
 - Dal (Lentils)
 - Raita (Yogurt-based dish)
 - Papad (Crispy flatbread)
+
+[Find my favorite Movie](MyMovie.md)
