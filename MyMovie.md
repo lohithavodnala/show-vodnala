@@ -13,3 +13,12 @@ While the original actor delivered a stellar performance, here are some other ta
 | Anushka shetty     | Her powerful screen presence and emotional depth. | 43  |
 | surya              | His charisma and ability to reinvent characters.  | 49  |
 | samantha           | Her dynamic range and ability to transform roles. | 37  |
+
+
+---
+## Favorite Quotes
+> "Every obstacle is an opportunity to grow and prove yourself."
+> *Jr. NTR*
+
+> "The more we give importance to skill development, the more competent will be our youth."
+> *PM Narendra Modi*
