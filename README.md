@@ -12,3 +12,28 @@ I love it because An Indian Thali is a complete meal that represents a perfect b
 - Papad (Crispy flatbread)
 
 [Find my favorite Movie](MyMovie.md)
+---
+## code fencing example
+How to use TypeScript to get a value of an interface property
+```typescript
+interface MyInterface {
+  id: number;
+  name: string;
+  properties: string[];
+}
+
+const myObject: MyInterface = {
+  id: 1,
+  name: 'foo',
+  properties: ['a', 'b', 'c']
+};
+
+function getValue(value: keyof MyInterface) {
+  return myObject[value];
+}
+
+getValue('id'); // 1
+getValue('count')
+```
+
+[source: typescript Documentation](https://code.pieces.app/collections/typescript)
